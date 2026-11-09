@@ -4,7 +4,6 @@
 기능이 "돌아가는 것"을 넘어, 동시 요청이나 예외 상황에서도 "틀리지 않는 것"을 고민하며 개발합니다.</div>
 <br>
 <div align='center'> ✉Email : <a href="mailto:csh980930@naver.com">csh980930@naver.com</a></div>
-<div align='center'> 🔗Notion : <a href="https://app.notion.com/p/5-5-02df887f762683889ab101ffdfc66651">노션링크</a></div>
 <br>
 <br>
 
@@ -13,12 +12,12 @@
 <div align="center">
 
 #### [FevalGo](https://github.com/csh9809/FevalGo) · 페스티벌 예약 관리 플랫폼
-`2026.08.31 ~ 2026.09.29` · 멋쟁이사자처럼 백엔드 24기 최종 프로젝트 (3인) · [🔗 서비스](https://fevalgo.duckdns.org/)
+`2026.08.31 ~ 2026.09.29` · 멋쟁이사자처럼 백엔드 24기 심화 프로젝트 (3인) · [🔗 서비스](https://fevalgo.duckdns.org/)
 
 주최자가 페스티벌을 등록·심사받아 공개하고, 참가자가 스탠딩·좌석 티켓을 예매·결제한 뒤 QR로 입장하며, 행사가 끝나면 정산까지 이어지는 **MSA 기반** 페스티벌 예약 관리 플랫폼<br>
 
 **담당** · 회원 인증(JWT + Refresh Token HttpOnly 쿠키) · 소셜 로그인 · 이메일 인증 · 어드민<br> 
-· 좌석 배치 · 예매 · 프론트엔드
+· 좌석 배치 · 프론트엔드
 
 `Spring Boot` `Spring Cloud Gateway` `Spring Security` `JPA` `MySQL` `React` `OAuth2` `SMTP`
 
@@ -31,7 +30,7 @@
 PortOne 빌링키 정기결제 구독 · 결제 재조회 검증 · 웹훅 멱등 처리
 
 **담당** · 회원인증(JWT + Refresh Token HttpOnly 쿠키) · 소셜로그인(카카오,구글,네이버)<br>
-· 이메일 인증(SMTP)(회원가입, 비밀번호 재설정) · PortOne 웹훅 서명 검증 · CI/CD 배포
+· 이메일 인증(SMTP)(회원가입, 비밀번호 재설정) · PortOne 웹훅 서명 검증 · CI/CD 배포(팀 공통)
 
 `Spring Boot` `Spring Security` `JPA` `MySQL` `React` `AWS S3` `Docker` `GitHub Actions` `AWS EC2`
 
