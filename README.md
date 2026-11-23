@@ -25,10 +25,12 @@
 
 **담당** · 인증·회원(JWT + Refresh Token HttpOnly 쿠키,<br>
 구글·카카오 로그인, 이메일 인증)<br>
-· 좌석 배치·선택·선점(중복 선점 차단, 실시간 선점) · 운영자 화면
+· 좌석 배치·선택·선점(중복 선점 차단, 실시간 선점)<br>
+· 운영자 화면
 
-`Java 21` `Spring Boot 3.5` `Spring Cloud Gateway` `Spring Security`<br>
-`JWT` `OAuth2` `JPA` `MySQL` `WebSocket(STOMP)` `SMTP`<br>
+`Java 21` `Spring Boot 3.5` `Spring Cloud Gateway`<br>
+`Spring Security` `JWT` `OAuth2` `JPA`<br>
+`MySQL` `WebSocket(STOMP)` `SMTP`<br>
 `React` `Vite` `Tailwind CSS` `Axios`
 
 <br>
@@ -45,9 +47,10 @@
 · 어드민 일부(신고 콘텐츠 소프트 삭제, 회원 정지·목록)<br>
 · 구독 결제·CI/CD 배포(팀 공통)
 
-`Java 21` `Spring Boot 3.5` `Spring Security` `JWT` `OAuth2`<br>
-`JPA` `MySQL` `SMTP` `PortOne V2`<br>
-`React` `Docker` `GitHub Actions` `AWS EC2`
+`Java 21` `Spring Boot 3.5` `Spring Security`<br>
+`JWT` `OAuth2` `JPA` `MySQL`<br>
+`SMTP` `PortOne V2` `React`<br>
+`Docker` `GitHub Actions` `AWS EC2`
 
 <br>
 
@@ -61,10 +64,10 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/OAuth2-3C3C3C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge" />
-  <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
