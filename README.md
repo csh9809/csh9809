@@ -78,6 +78,3 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=footer)
   <a href="https://github.com/csh9809"><img src="https://streak-stats.demolab.com?user=csh9809&theme=nord&hide_border=true" /></a>
 </p>
-<br>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=footer)
