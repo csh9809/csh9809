@@ -19,12 +19,12 @@
 **담당** · 인증·회원(JWT + Refresh Token HttpOnly 쿠키, 구글·카카오 로그인, 이메일 인증)<br>
 · 좌석 배치·선택·선점(중복 선점 차단, 실시간 선점) · 운영자 화면
 
-`Java 21` `Spring Boot 3.5` `Spring Cloud Gateway` `Spring Security` `JWT` `OAuth2` `JPA` `MySQL` `WebSocket(STOMP)` `SMTP` `React`
+`Java 21` `Spring Boot 3.5` `Spring Cloud Gateway` `Spring Security` `JWT` `OAuth2` `JPA` `MySQL` `WebSocket(STOMP)` `SMTP` `React` `Vite` `Tailwind CSS` `Axios`
 
 <br>
 
 #### [Prep2gether](https://github.com/csh9809/prep2gether) · 취업 준비 커뮤니티
-`2026.07.29 ~ 2026.08.27` · 멋쟁이사자처럼 백엔드 24기 팀 프로젝트 (4인) · [🔗 서비스](http://prep2gether.duckdns.org)
+`2026.07.29 ~ 2026.08.27` · 멋쟁이사자처럼 백엔드 24기 응용 프로젝트 (4인) · [🔗 서비스](http://prep2gether.duckdns.org)
 
 취업 준비생의 정보 공유, 스터디 모집·운영, 전문가 1:1 유료 상담을 연결한 커뮤니티 플랫폼<br>
 
@@ -76,5 +76,3 @@
 <br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=footer)
-  <a href="https://github.com/csh9809"><img src="https://streak-stats.demolab.com?user=csh9809&theme=nord&hide_border=true" /></a>
-</p>
